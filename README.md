@@ -14,3 +14,15 @@ Ativando os pacotes offices
 1)  CD\
 2)  CD c:\MS Office Setup
 3)  Setup.exe/Configure Configuração.xml
+
+
+2 opção 
+----> Pode usar o arquivo para baixar no próprio site da microsoft 
+1- https://clients.config.office.net/deploymentsettings
+    - Selecione a arquitetura desejada
+    - Selecione a opção: Office LTSC Professional Plus 2024 - Volume License
+    - Depois lembre-se de exporta o XML (Configuração)
+2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117
+    - Deixe o idioma English
+
+Depois somente seguir o tutorial a cima que descrevi...

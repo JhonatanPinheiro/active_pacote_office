@@ -21,6 +21,7 @@ Ativando os pacotes offices
 1- https://clients.config.office.net/deploymentsettings <br>
     - Selecione a arquitetura desejada <br>
     - Selecione a opção: Office LTSC Professional Plus 2024 - Volume License <br>
+    - Selecione a idioma: Corresponder com o sistema operacional <br>
     - Depois lembre-se de exporta o XML (Configuração) <br>
 2 - https://www.microsoft.com/en-us/download/details.aspx?id=49117 <br>
     - Deixe o idioma English <br>
